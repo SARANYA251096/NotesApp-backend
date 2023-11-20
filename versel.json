@@ -3,7 +3,7 @@
     "name":"NotesApp",
     "builds":[
         {
-            "src":"*.js",
+            "src":"./index.js",
             "use":"@vercel/node"
         }
     ],
